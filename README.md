@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lead Web Developer chez Emity (34).
 
 <!--
 **maximeCHAMBAUD/maximeCHAMBAUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
