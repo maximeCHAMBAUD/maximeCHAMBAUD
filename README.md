@@ -1,4 +1,7 @@
-### Lead Web Developer chez Emity (34).
+### Actuellement Lead Web Developer chez Emity (34).
+## En charge du développement d'une plateforme web de gestion de parc d'écran d'affichage dynamique. 
+- Choix techniques
+- Gestion d'équipe
 
 <!--
 **maximeCHAMBAUD/maximeCHAMBAUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
